@@ -295,6 +295,7 @@ Saldando :smile
 ### Então, ficará assim:
 
 Olá, pequeno gafanhoto ✋
+
 Saldando 😸
 
 ## Manual Markdown do Curso de Git e GitHub

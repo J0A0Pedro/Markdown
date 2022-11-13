@@ -7,7 +7,6 @@
 
 
 
-Estou aprendendo linguagem **Markdown** no _*Curso em Video*_ de **Git e GitHub**
 
 ## Colocando coisas em __Negrito__:
 
